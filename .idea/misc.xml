@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/correct_option_border_bg.xml" value="0.2285" />
+        <entry key="app/src/main/res/drawable/default_option_border_bg.xml" value="0.117" />
+        <entry key="app/src/main/res/drawable/default_selected_option_bg.xml" value="0.2285" />
+        <entry key="app/src/main/res/drawable/default_tab_on_boarding.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/img_bg_card_lvl.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/selected_tab_on_boarding.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/selector_tabs.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/stroke_for_text.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable/wrong_option_border_bg.xml" value="0.1225" />
+        <entry key="app/src/main/res/layout/activity_faq.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_faqactivity.xml" value="0.51875" />
+        <entry key="app/src/main/res/layout/activity_finish.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_light_lvls.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_lvl.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_on_boarding.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_reloade.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_easy_lvl1.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_easy_lvl2.xml" value="0.4041666666666667" />
+        <entry key="app/src/main/res/layout/fragment_step_one.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_step_three.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_step_two.xml" value="0.14" />
+        <entry key="app/src/main/res/layout/item_faq.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/item_lvl.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/lose_layout_dialog.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/pause_layout_dialog.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

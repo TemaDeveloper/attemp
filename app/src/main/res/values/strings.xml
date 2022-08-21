@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Geography Quiz</string>
+
+
+    <!-- Questions easy levels || Ordinary person-->
+    <string name="easy_lvl_question_1">What is the capital of Spain?</string>
+
+    <!--options and answer for easy lvl || question 1|| Ordinary person-->
+    <string name="easy_lvl_question_1_option_1">Berlin</string>
+    <string name="easy_lvl_question_1_option_2">Paris</string>
+    <string name="easy_lvl_question_1_option_3">Madrid</string>
+    <string name="easy_lvl_question_1_option_4">Moscow</string>
+
+    <string name="easy_lvl_question_2">Which geographic feature is man-made?</string>
+
+    <!--options and answer for easy lvl || question 2|| Ordinary person-->
+    <string name="easy_lvl_question_2_option_1">Plain</string>
+    <string name="easy_lvl_question_2_option_2">Port</string>
+    <string name="easy_lvl_question_2_option_3">River</string>
+    <string name="easy_lvl_question_2_option_4">Mountain</string>
+
+    <string name="easy_lvl_question_3">What is the name of the device shown in the figure, which is used in geographical research?</string>
+
+    <!--options and answer for easy lvl || question 3|| Ordinary person-->
+    <string name="easy_lvl_question_3_option_1">Compass</string>
+    <string name="easy_lvl_question_3_option_2">Ruler</string>
+    <string name="easy_lvl_question_3_option_3">Thermometer</string>
+    <string name="easy_lvl_question_3_option_4">Barometer</string>
+
+    <string name="easy_lvl_question_4">What is the unit of measure for salinity of water called?</string>
+
+    <!--options and answer for easy lvl || question 4|| Ordinary person-->
+    <string name="easy_lvl_question_4_option_1">Pascal</string>
+    <string name="easy_lvl_question_4_option_2">Kilobar</string>
+    <string name="easy_lvl_question_4_option_3">Yard</string>
+    <string name="easy_lvl_question_4_option_4">PPM</string>
+
+
+    <string name="easy_lvl_question_5">Which ocean is the largest in area?</string>
+
+    <!--options and answer for easy lvl || question 5|| Ordinary person-->
+    <string name="easy_lvl_question_5_option_1">Atlantic ocean</string>
+    <string name="easy_lvl_question_5_option_2">Pacific ocean</string>
+    <string name="easy_lvl_question_5_option_3">Indian ocean</string>
+    <string name="easy_lvl_question_5_option_4">Arctic ocean</string>
+
+    <string name="easy_lvl_question_6">What is the name of the largest lake on Earth?</string>
+
+    <!--options and answer for easy lvl || question 6|| Ordinary person-->
+    <string name="easy_lvl_question_6_option_1">Baikal lake</string>
+    <string name="easy_lvl_question_6_option_2">Caspian lake</string>
+    <string name="easy_lvl_question_6_option_3">Ladoga lake</string>
+    <string name="easy_lvl_question_6_option_4">Victoria lake</string>
+
+    <string name="easy_lvl_question_7">What is the name of the largest island on Earth?</string>
+
+    <!--options and answer for easy lvl || question 7|| Ordinary person-->
+    <string name="easy_lvl_question_7_option_1">Greenland</string>
+    <string name="easy_lvl_question_7_option_2">New Guinea</string>
+    <string name="easy_lvl_question_7_option_3">New Zeeland</string>
+    <string name="easy_lvl_question_7_option_4">Madagascar</string>
+
+    <string name="easy_lvl_question_8">What is the name of the continent represented in the snap?</string>
+
+    <!--options and answer for easy lvl || question 8|| Ordinary person-->
+    <string name="easy_lvl_question_8_option_1">Australia</string>
+    <string name="easy_lvl_question_8_option_2">Eurasia</string>
+    <string name="easy_lvl_question_8_option_3">Japan</string>
+    <string name="easy_lvl_question_8_option_4">North America</string>
+
+    <string name="easy_lvl_question_9">What was the name of the person who created the first world globe?</string>
+
+    <!--options and answer for easy lvl || question 9|| Ordinary person-->
+    <string name="easy_lvl_question_9_option_1">Herodotus</string>
+    <string name="easy_lvl_question_9_option_2">Ptolemy</string>
+    <string name="easy_lvl_question_9_option_3">Waldseemüller</string>
+    <string name="easy_lvl_question_9_option_4">Beheim</string>
+
+    <string name="easy_lvl_question_10">What is the name for behaviour of the river during the particular period of time?</string>
+
+    <!--options and answer for easy lvl || question 10|| Ordinary person-->
+    <string name="easy_lvl_question_10_option_1">River system</string>
+    <string name="easy_lvl_question_10_option_2">River character</string>
+    <string name="easy_lvl_question_10_option_3">River regime</string>
+    <string name="easy_lvl_question_10_option_4">River flow</string>
+
+
+</resources>
